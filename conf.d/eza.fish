@@ -1,7 +1,7 @@
 set -gx EZA_STANDARD_OPTIONS --group --header --group-directories-first
 
 # Base aliases
-set -gx EZA_L_OPTIONS
+set -gx EZA_L_OPTIONS --icons
 set -gx EZA_LL_OPTIONS --long
 set -gx EZA_LG_OPTIONS --git --git-ignore --long
 set -gx EZA_LE_OPTIONS --extended --long

@@ -9,7 +9,7 @@
 Install using Fisher:
 
 ```console
-fisher install imroc/eza.fish
+fisher install mwerlberger/eza.fish
 ```
 
 ## 🔧 Usage
